@@ -1,1 +1,1 @@
-# Naive-Bayes-and-Logistic-Regression-for-Text-Classi-cation
+# Naive Bayes and Logistic Regression for Text Classfication
